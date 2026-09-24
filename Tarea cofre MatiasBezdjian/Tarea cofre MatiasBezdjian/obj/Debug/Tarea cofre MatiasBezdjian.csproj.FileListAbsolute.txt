@@ -1,0 +1,7 @@
+C:\Users\matias\Documents\GitHub\tarea cofre\Tarea cofre MatiasBezdjian\Tarea cofre MatiasBezdjian\bin\Debug\Tarea cofre MatiasBezdjian.exe.config
+C:\Users\matias\Documents\GitHub\tarea cofre\Tarea cofre MatiasBezdjian\Tarea cofre MatiasBezdjian\bin\Debug\Tarea cofre MatiasBezdjian.exe
+C:\Users\matias\Documents\GitHub\tarea cofre\Tarea cofre MatiasBezdjian\Tarea cofre MatiasBezdjian\bin\Debug\Tarea cofre MatiasBezdjian.pdb
+C:\Users\matias\Documents\GitHub\tarea cofre\Tarea cofre MatiasBezdjian\Tarea cofre MatiasBezdjian\obj\Debug\Tarea cofre MatiasBezdjian.csproj.AssemblyReference.cache
+C:\Users\matias\Documents\GitHub\tarea cofre\Tarea cofre MatiasBezdjian\Tarea cofre MatiasBezdjian\obj\Debug\Tarea cofre MatiasBezdjian.csproj.CoreCompileInputs.cache
+C:\Users\matias\Documents\GitHub\tarea cofre\Tarea cofre MatiasBezdjian\Tarea cofre MatiasBezdjian\obj\Debug\Tarea cofre MatiasBezdjian.exe
+C:\Users\matias\Documents\GitHub\tarea cofre\Tarea cofre MatiasBezdjian\Tarea cofre MatiasBezdjian\obj\Debug\Tarea cofre MatiasBezdjian.pdb
